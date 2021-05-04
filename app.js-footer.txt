@@ -1,0 +1,21 @@
+import React from 'react';
+import Footer from "./Footer";
+
+
+
+function App(){
+    return(
+        <div className="page-container">
+        <div className="content-wrap">
+        </div>
+
+    )
+}
+
+
+<Footer/>
+
+export default App;
+
+
+  
